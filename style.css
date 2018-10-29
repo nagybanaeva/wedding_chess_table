@@ -1,0 +1,26 @@
+*{
+  box-sizing: border-box;
+}
+
+#myCanvas {
+  background-image: url(menya_hdr.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#volegeny {
+  z-index: 2;
+  height: 80px;
+  width: 80px;
+  position: relative;
+  right: -485px;
+  top: -161px;
+}
+
+
+h1 {
+  z-index: 2;
+  margin-left: 300px;
+  color: 'rgba( 0, 0, 0)';
+  opacity: 0.6;
+}
